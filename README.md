@@ -1,5 +1,5 @@
 # Data_Miner
-Code which we use ti Mine Data
+Code which we use to Mine Data
 
 Code to Mine images from whole Internet of a Person or Thing or Anyone.
 & Crop it from their Front of the Face.
